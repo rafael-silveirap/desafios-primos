@@ -1,10 +1,10 @@
 # Desafios números primos
 Alguns desafios na linguagem C usando números primos
 
---Desafio 1:
+##Desafio 1:
 Escrever um código que recebe um número natural e diz se é primo ou não.
 
---Desafio 2:
+##Desafio 2:
 Exibir o numero primo gerado pela a multiplicação de todos os outros primos anteriores somado com 1. <br>
 Px = ( P_1 * P_2 * ... * P_n ) + 1 <br>
 Onde:
