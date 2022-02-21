@@ -15,5 +15,15 @@ Onde:
 Exemplo:
 ```
 Entrada: 10 | Saída: 211
+Entrada: 20 | Saída: 9699691
+```
+
+## Desafio 3:
+A propriedade do desafio 2 nem sempre é válida, então o desafio 3 é dizer se o Px realmente é um número primo ou não, caso seja, dizer qual sua posição na ordem dos números primos.<br>
+Exemplo:
+```
+Entrada: 11 | Saída: O numero 11 eh primo. 11 eh o n=5. O resultado de Px eh 2311 e esse valor eh primo de posicao n = 344.
+Entrada: 13 | Saída: O numero 13 eh primo. 13 eh o n=6. O resultado de Px eh 30031 e esse valor nao eh primo.
+Entrada: 17 | Saída: O numero 17 eh primo. 17 eh o n=7. O resultado de Px eh 510511 e esse valor nao eh primo.
 ```
 
