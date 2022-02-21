@@ -10,5 +10,10 @@ Px = ( P_1 * P_2 * ... * P_n ) + 1 <br>
 Onde:
 * P_1 é o primeiro numero primo partindo do zero (no caso o numero 2)
 * P_i é o i-nesimo primo partindo do zero. Por exemplo P_3 = 5, pois 5 é o quinto primo (2,3, 5)
-* Px é um número primo 
+* Px é um número primo <br> <br>
+
+Exemplo:
+```
+Entrada: 10 | Saída: 211
+```
 
