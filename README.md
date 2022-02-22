@@ -7,10 +7,10 @@ Escrever um código que recebe um número natural e diz se é primo ou não.
 ## Desafio 2:
 Exibir o numero primo gerado pela a multiplicação de todos os outros primos anteriores somado com 1. <br>
 <p align="center"><img src="https://media.discordapp.net/attachments/780042178424471583/945649499320234034/751211349627109416.png?width=1440&height=203" width="300"></p> 
-Onde:
-* P_1 é o primeiro numero primo partindo do zero (no caso o numero 2)
-* P_i é o i-nesimo primo partindo do zero. Por exemplo P_3 = 5, pois 5 é o quinto primo (2,3, 5)
-* Px é um número primo <br> <br>
+Onde: <br>
+- P_1 é o primeiro numero primo partindo do zero (no caso o numero 2)<br>
+- P_i é o i-nesimo primo partindo do zero. Por exemplo P_3 = 5, pois 5 é o quinto primo (2,3, 5) <br>
+- Px é um número primo <br> <br>
 
 Exemplo:
 ```
