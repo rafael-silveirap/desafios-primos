@@ -10,7 +10,7 @@ Exibir o numero primo gerado pela a multiplicação de todos os outros primos an
 Onde: <br>
 - P_1 é o primeiro numero primo partindo do zero (no caso o numero 2)<br>
 - P_i é o i-nesimo primo partindo do zero. Por exemplo P_3 = 5, pois 5 é o quinto primo (2,3, 5) <br>
-- Px é um número primo <br> <br>
+- P_x é um número primo <br> <br>
 
 Exemplo:
 ```
